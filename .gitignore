@@ -1,0 +1,7 @@
+# Python & FastAPI ignores
+venv/
+__pycache__/
+*.pyc
+.env
+*.pdf
+.DS_Store
